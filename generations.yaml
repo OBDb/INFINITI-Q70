@@ -1,3 +1,7 @@
+references:
+  - "https://en.wikipedia.org/wiki/Infiniti_Q70"
+  - "https://en.wikipedia.org/wiki/Infiniti_M"
+
 generations:
   - name: "First Generation (as Infiniti M, Y51)"
     start_year: 2011
